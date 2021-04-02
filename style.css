@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+}
+
+
+.header1{
+    border-style: dotted;
+}
+
+
+.header2{
+    border-style: solid;
+}
